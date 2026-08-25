@@ -1,0 +1,25 @@
+# Unreal generated output
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE generated output
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.xcodeproj
+*.xcworkspace
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
+
+# Plugin generated output
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
